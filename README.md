@@ -53,7 +53,7 @@ Sweep_and_Prune/
 1. Clone the repository:
    ```bash
    git clone https://github.com/hyandnn/Sweep_and_Prune.git
-   cd sap_broadphase
+   cd Sweep_and_Prune
    ```
 2. Compile the project:
    ```bash
