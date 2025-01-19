@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AABB.cpp" />
+    <ClCompile Include="BroadPhase.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="sap.cpp" />
+    <ClCompile Include="SAP.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sap.h" />
+    <ClInclude Include="AABB.h" />
+    <ClInclude Include="BroadPhase.h" />
+    <ClInclude Include="SAP.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

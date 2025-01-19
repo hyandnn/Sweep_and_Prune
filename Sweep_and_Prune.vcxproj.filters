@@ -18,12 +18,24 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sap.cpp">
+    <ClCompile Include="SAP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BroadPhase.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sap.h">
+    <ClInclude Include="SAP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AABB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BroadPhase.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
