@@ -15,7 +15,7 @@ This project implements a **Sweep and Prune (SAP)** broad-phase collision detect
 
 ## File Structure
 ```
-sap_broadphase/
+Sweep_and_Prune/
 ├── include/
 │   ├── AABB.h            # AABB data structures and utility function declarations
 │   ├── SAP.h             # SAP algorithm declarations
@@ -42,7 +42,7 @@ sap_broadphase/
 #### Using Visual Studio
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/sap_broadphase.git
+   git clone https://github.com/hyandnn/Sweep_and_Prune.git
    ```
 2. Open the solution file (`Sweep_and_Prune.sln`) in Visual Studio.
 3. Add all source files (`AABB.h/cpp`, `SAP.h/cpp`, `BroadPhase.h/cpp`, and `main.cpp`) to the project if not already included.
@@ -52,7 +52,7 @@ sap_broadphase/
 #### Using Command Line
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/sap_broadphase.git
+   git clone https://github.com/hyandnn/Sweep_and_Prune.git
    cd sap_broadphase
    ```
 2. Compile the project:
